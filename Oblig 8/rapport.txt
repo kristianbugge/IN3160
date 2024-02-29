@@ -1,0 +1,1 @@
+It was fun but challenging to implement FSM in task b and d. I had an issue when programming the board, that the motor change speed and direction very slowly, but otherwise it did as the task described.
